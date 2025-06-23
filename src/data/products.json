@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "name": "Чоловіча зимова куртка UF-Fashion 68",
+    "type": "Чоловічий одяг",
+    "price": 3200,
+    "image": "https://content.rozetka.com.ua/goods/images/big/291337215.jpg",
+    "description": "Тепла чоловіча зимова куртка UF-Fashion 68.",
+    "url": "/product/1"
+  },
+  {
+    "id": 2,
+    "name": "Чоловіча зимова куртка UF-Fashion 68 (інший розмір)",
+    "type": "Чоловічий одяг",
+    "price": 3200,
+    "image": "https://th.bing.com/th/id/OIP.aNCnMO_B39FtQpUyteDV5gAAAA?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Чоловіча зимова куртка UF-Fashion 68, інший розмір.",
+    "url": "/product/2"
+  },
+  {
+    "id": 3,
+    "name": "Зимові чоловічі куртки на хутрі",
+    "type": "Чоловічий одяг",
+    "price": 3500,
+    "image": "https://images.ua.prom.st/3331918127_w640_h640_zimnie-muzhskie-kurtki.jpg",
+    "description": "Зимові чоловічі куртки на хутрі.",
+    "url": "/product/3"
+  },
+  {
+    "id": 4,
+    "name": "Чоловіча коротка зимова куртка Glo-Story",
+    "type": "Чоловічий одяг",
+    "price": 3100,
+    "image": "https://images.prom.ua/4044912493_w640_h640_kurtka-muzhskaya-korotkaya.jpg",
+    "description": "Чоловіча коротка зимова куртка Glo-Story.",
+    "url": "/product/4"
+  },
+  {
+    "id": 5,
+    "name": "Чоловіча зимова парка довга",
+    "type": "Чоловічий одяг",
+    "price": 3400,
+    "image": "https://images.shafastatic.net/1356167398",
+    "description": "Чоловіча зимова парка довга.",
+    "url": "/product/5"
+  },
+  {
+    "id": 6,
+    "name": "Жіноче пальто Актуаль 143 бежеве",
+    "type": "Жіночий одяг",
+    "price": 4100,
+    "image": "https://images.prom.ua/4137773674_w640_h640_palto-zhenskoe-iz.jpg",
+    "description": "Жіноче пальто Актуаль 143 бежеве.",
+    "url": "/product/6"
+  },
+  {
+    "id": 7,
+    "name": "Жіноче пальто Актуаль 343 меланж",
+    "type": "Жіночий одяг",
+    "price": 4100,
+    "image": "https://th.bing.com/th/id/OIP.vPQwdcVcchJg3CRTlWVl7wAAAA?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Жіноче пальто Актуаль 343 меланж.",
+    "url": "/product/7"
+  },
+  {
+    "id": 8,
+    "name": "Жіноче пальто в клітку з поясом",
+    "type": "Жіночий одяг",
+    "price": 4200,
+    "image": "https://images.shafastatic.net/591608723",
+    "description": "Жіноче пальто в клітку з поясом.",
+    "url": "/product/8"
+  },
+  {
+    "id": 9,
+    "name": "Стильне жіноче пальто",
+    "type": "Жіночий одяг",
+    "price": 4300,
+    "image": "https://cape.ua/wp-content/uploads/ceruq17.jpg",
+    "description": "Стильне жіноче пальто.",
+    "url": "/product/9"
+  },
+  {
+    "id": 10,
+    "name": "Стьобане жіноче пальто-куртка",
+    "type": "Жіночий одяг",
+    "price": 4400,
+    "image": "https://d48-a.sdn.cz/d_48/c_img_QJ_p/xg09S.jpeg?fl=res,600,,1,ffffff",
+    "description": "Стьобане жіноче пальто-куртка.",
+    "url": "/product/10"
+  },
+  {
+    "id": 11,
+    "name": "Парка дитяча з хутром",
+    "type": "Дитячий одяг",
+    "price": 2100,
+    "image": "https://dm-kid.com.ua/image/cache/catalog/1-Magazinov/VM-22003-540x800.jpg",
+    "description": "Парка дитяча з хутром.",
+    "url": "/product/11"
+  },
+  {
+    "id": 12,
+    "name": "Дитяча весняна парка",
+    "type": "Дитячий одяг",
+    "price": 2000,
+    "image": "https://th.bing.com/th/id/OIP.l5HVNkIxql-UlANT8TZpigHaHa?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Дитяча весняна парка.",
+    "url": "/product/12"
+  },
+  {
+    "id": 13,
+    "name": "Парка дитяча з хутром 116-128 см",
+    "type": "Дитячий одяг",
+    "price": 2150,
+    "image": "https://th.bing.com/th/id/OIP.T0KAu6wtF5T4CgdBmqGDQQHaHu?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Парка дитяча з хутром 116-128 см.",
+    "url": "/product/13"
+  },
+  {
+    "id": 14,
+    "name": "Дитяча демісезонна парка для дівчинки",
+    "type": "Дитячий одяг",
+    "price": 2050,
+    "image": "https://beemart.pl.ua/image/cache/data/products/11453_251024%20(2)%7C4476%7C-autox400.jpg",
+    "description": "Дитяча демісезонна парка для дівчинки.",
+    "url": "/product/14"
+  },
+  {
+    "id": 15,
+    "name": "Парка дитяча для хлопчика",
+    "type": "Дитячий одяг",
+    "price": 2100,
+    "image": "https://th.bing.com/th/id/OIP.iM-_cGEmjvEbdgZLQQ_rRAHaI7?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Парка дитяча для хлопчика.",
+    "url": "/product/15"
+  },
+  {
+    "id": 16,
+    "name": "Чоловічий чорний плащ Gant",
+    "type": "Чоловічий одяг",
+    "price": 3000,
+    "image": "https://th.bing.com/th/id/OIP.kwi9o6t6NvRaatem1g36QQHaLG?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Чоловічий чорний плащ Gant.",
+    "url": "/product/16"
+  },
+  {
+    "id": 17,
+    "name": "Чоловічий тренч Marks & Spencer",
+    "type": "Чоловічий одяг",
+    "price": 3200,
+    "image": "https://th.bing.com/th/id/OIP.2ykRrqi2FuHVmnKBvkwlbAHaJ4?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Чоловічий тренч Marks & Spencer.",
+    "url": "/product/17"
+  },
+  {
+    "id": 18,
+    "name": "Чоловічий тренч двобортний",
+    "type": "Чоловічий одяг",
+    "price": 3250,
+    "image": "https://th.bing.com/th/id/OIP.kgYrkK_aJjNnkaOwi8AbpgHaHa?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Чоловічий тренч двобортний.",
+    "url": "/product/18"
+  },
+  {
+    "id": 19,
+    "name": "Плащ чоловічий Arber синій",
+    "type": "Чоловічий одяг",
+    "price": 3100,
+    "image": "https://content.rozetka.com.ua/goods/images/big/443144826.jpg",
+    "description": "Плащ чоловічий Arber синій.",
+    "url": "/product/19"
+  },
+  {
+    "id": 20,
+    "name": "Жіночий пуховик з хутром VO-TARUN",
+    "type": "Жіночий одяг",
+    "price": 4500,
+    "image": "https://th.bing.com/th/id/OIP.sKu6nbhqDiYUi6SbFlzjEgHaLH?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Жіночий пуховик з хутром VO-TARUN.",
+    "url": "/product/20"
+  },
+  {
+    "id": 21,
+    "name": "Пуховик Gessica 79A82",
+    "type": "Жіночий одяг",
+    "price": 4600,
+    "image": "https://images.shafastatic.net/227717011",
+    "description": "Пуховик Gessica 79A82.",
+    "url": "/product/21"
+  },
+  {
+    "id": 22,
+    "name": "Пуховик Автоледі Lora Duveti",
+    "type": "Жіночий одяг",
+    "price": 4700,
+    "image": "https://th.bing.com/th/id/OIP.Yda3foEpkvI4LF_zH8FztQHaLH?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Пуховик Автоледі Lora Duveti.",
+    "url": "/product/22"
+  },
+  {
+    "id": 23,
+    "name": "Жіночий пуховик Meajiateer",
+    "type": "Жіночий одяг",
+    "price": 4550,
+    "image": "https://paletot.ua/sites/default/files/2023-09/photo_2023-09-16_14-37-54.jpg",
+    "description": "Жіночий пуховик Meajiateer.",
+    "url": "/product/23"
+  },
+  {
+    "id": 24,
+    "name": "Жіночий пуховик Intruder Bubble",
+    "type": "Жіночий одяг",
+    "price": 4400,
+    "image": "https://th.bing.com/th/id/OIP.CBU-IDtYhoMTFanWPq847AHaKq?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Жіночий пуховик Intruder Bubble.",
+    "url": "/product/24"
+  },
+  {
+    "id": 25,
+    "name": "Дитяча зимова куртка REIMA",
+    "type": "Дитячий одяг",
+    "price": 2200,
+    "image": "https://th.bing.com/th/id/OIP.1kGr6WHomdx6jPOCQK7hzgHaHa?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Дитяча зимова куртка REIMA.",
+    "url": "/product/25"
+  },
+  {
+    "id": 26,
+    "name": "Дитяча зимова куртка пудрова",
+    "type": "Дитячий одяг",
+    "price": 2100,
+    "image": "https://kidbutik.ua/units/prods/files/50073/1696757138685_large.jpg",
+    "description": "Дитяча зимова куртка пудрова.",
+    "url": "/product/26"
+  },
+  {
+    "id": 27,
+    "name": "Дитяча зимова куртка парка",
+    "type": "Дитячий одяг",
+    "price": 2150,
+    "image": "https://content.rozetka.com.ua/goods/images/big/366457712.jpg",
+    "description": "Дитяча зимова куртка парка.",
+    "url": "/product/27"
+  },
+  {
+    "id": 28,
+    "name": "Дитяча зимова куртка синя",
+    "type": "Дитячий одяг",
+    "price": 2150,
+    "image": "https://th.bing.com/th/id/OIP.zuEz7Ke8I5YPMceroIXtbQHaLD?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Дитяча зимова куртка синя.",
+    "url": "/product/28"
+  },
+  {
+    "id": 29,
+    "name": "Чоловіча демісезонна куртка синя",
+    "type": "Чоловічий одяг",
+    "price": 2500,
+    "image": "https://content.rozetka.com.ua/goods/images/big/322708580.jpg",
+    "description": "Чоловіча демісезонна куртка синя.",
+    "url": "/product/29"
+  },
+  {
+    "id": 30,
+    "name": "Чоловіча демісезонна куртка Reload",
+    "type": "Чоловічий одяг",
+    "price": 2550,
+    "image": "https://th.bing.com/th/id/OIP.JJd6k1hKrs5TJmwfseciQwHaJ4?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3",
+    "description": "Чоловіча демісезонна куртка Reload.",
+    "url": "/product/30"
+  }
+]
+
+
+
+
+

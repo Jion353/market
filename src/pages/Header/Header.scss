@@ -1,0 +1,44 @@
+.header {
+  background: #1a5c2e;
+  color: #fff;
+  padding: 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+}
+
+.header-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+
+.header-cart {
+  color: #ffe082;
+  font-size: 1.1rem;
+  text-decoration: none;
+  position: relative;
+  transition: color 0.2s;
+}
+.header-cart:hover {
+  color: #fff;
+}
+.cart-count {
+  background: #ffe082;
+  color: #1a5c2e;
+  border-radius: 50%;
+  padding: 2px 8px;
+  margin-left: 6px;
+  font-weight: bold;
+  font-size: 1rem;
+}
