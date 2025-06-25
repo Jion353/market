@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "sass": "^1.89.2",
     "web-vitals": "^2.1.4",
-    "homepage": "https://github.com/Jion353/market.git"
+    "homepage": "https://jion353.github.io/market"
   },
   "scripts": {
     "start": "react-scripts start",
